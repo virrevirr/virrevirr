@@ -88,15 +88,6 @@ Backend/database structures
 
 These are **learning projects**.
 
-   
-
-## 🔎 Currently interested in
-
-* full-stack systems
-* AI developer tools
-* human-AI interaction
-* building products that actually get used
-
 
 
 ## 📬 Contact
