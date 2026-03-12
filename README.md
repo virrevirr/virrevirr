@@ -99,16 +99,6 @@ These are **learning projects**.
 
 
 
-## 🎨 Outside of coding
-
-When I'm not coding you'll usually find me  
-   
-🧗 climbing  
-✈️ travelling  
-🎨 painting  
-
-
-
 ## 📬 Contact
 
 📍 Stockholm
