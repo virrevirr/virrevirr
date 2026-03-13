@@ -92,11 +92,11 @@ These are **learning projects**.
 
 ## 📬 Contact
 
-📍 Stockholm
-📧 [vira.oetterli@gmail.com](mailto:vira.oetterli@gmail.com)
-💼 LinkedIn: linkedin.com/in/viraoetterli
+📍 Stockholm   
+📧 [vira.oetterli@gmail.com](mailto:vira.oetterli@gmail.com)   
+💼 LinkedIn: linkedin.com/in/viraoetterli   
 
 
 
-If you're working on something interesting feel free to reach out.
+If you're working on something interesting feel free to reach out.   
 
