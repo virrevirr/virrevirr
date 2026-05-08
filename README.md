@@ -1,38 +1,46 @@
 # Hi, I'm Vira! 👋
 
 I'm a developer in training at KTH in Stockholm. I like building things and understanding how they work under the hood.    
-Most of the projects here are part of my learning process.
-
-Some are messy.   
-Some are experiments.   
-Some are things I'm genuinely proud of.   
-
-All of them are steps toward becoming a better developer 💻.
+Most of the projects here are part of my learning process. All of them are steps toward becoming a better developer 💻.
 
    
 
-## What I'm currently working on
+## What I'm currently working on (not open source)
 
-## 🧠 Master Thesis
+## 🧠 CodeCheck
 
-I'm designing and developing a VS Code extension that helps developers keep control when working with AI-assisted coding tools.
+I'm designing and developing a VS Code extension that helps developers reflect on their understanding when working with AI-assisted coding tools.
 
-The goal isn't to replace AI, it's to make collaboration between developer and AI more transparent and intentional.
+The extension collects interactions with tools like Claude Code and Codex, groups prompts, responses and file changes into coding sessions and generates short daily quizzes based on the developer's own AI-assisted work.
 
-Planned stack:
+The goal is to help developers stay aware of what they understand, identify knowledge gaps and keep control when working with AI-generated code.
 
+Current stack:
+   
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![VS Code API](https://img.shields.io/badge/VS_Code_API-007ACC?logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/api)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)](https://nodejs.org/)
 [![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)](https://expressjs.com/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![Neon](https://img.shields.io/badge/Neon-00E699)](https://neon.tech/)
-[![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)](https://www.prisma.io/)
-[![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)](https://react.dev/)
-[![Fly.io](https://img.shields.io/badge/Fly.io-8B5CF6)](https://fly.io/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)
-[![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)](https://vitejs.dev/)
+[![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?logo=digitalocean&logoColor=white)](https://www.digitalocean.com/)
+[![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/CSS-663399?logo=css&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
+## 🍨 Capanna Verde
+   
+I'm designing and developing a new website for an Italian gelato business in Stockholm going through a rebrand.
+   
+Capanna Verde is expanding into direct sales to bars and restaurants, so the website includes a dedicated business page for B2B customers. The site is designed with clearer content, stronger SEO and a visual identity that supports the brand's new direction.
+   
+Current stack:
+   
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)](https://react.dev/)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)](https://nextjs.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Neon](https://img.shields.io/badge/Neon-00E599?logo=neon&logoColor=black)](https://neon.tech/)
+[![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)](https://vercel.com/)
    
 ## A few projects
 
@@ -40,7 +48,7 @@ Planned stack:
 
 A full-stack todo application built to explore modern web development patterns.
 
-This project was mainly about understanding full-stack architecture in practice: authentication, database design, API routes and testing.
+This project was mainly about understanding full-stack architecture in practice: authentication, database design and testing.
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)](https://nextjs.org/)
